@@ -27,9 +27,9 @@ gem 'webrick', '~> 1.8'
 # gem 'public_suffix', '5.1.1'
 
 gem 'github-pages'
-gem 'public_suffix', '6.0.1'
+# gem 'public_suffix', '6.0.1'
 
 gem "jekyll", "~> 3.9"
 gem "liquid", "~> 4.0"
 gem "jekyll-sass-converter", "= 1.5.0"
-gem "kramdown", "= 1.2.0"
+# gem "kramdown", "= 1.2.0"
