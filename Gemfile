@@ -21,3 +21,5 @@ gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jemoji'
 gem 'webrick', '~> 1.8'
+
+gem 'public_suffix', '5.1.1'
