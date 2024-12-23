@@ -15,6 +15,8 @@
 
 
 
+
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem "github-pages", group: :jekyll_plugins
+gem "public_suffix", "5.1.1"
