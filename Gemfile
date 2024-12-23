@@ -13,6 +13,8 @@
 
 
 
+
+
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.3'
@@ -22,4 +24,7 @@ gem 'jekyll-redirect-from'
 gem 'jemoji'
 gem 'webrick', '~> 1.8'
 
-gem 'public_suffix', '5.1.1'
+# gem 'public_suffix', '5.1.1'
+
+gem 'github-pages'
+gem 'public_suffix', '6.0.1'
