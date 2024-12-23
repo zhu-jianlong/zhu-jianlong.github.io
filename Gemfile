@@ -17,7 +17,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3'
+# gem 'jekyll', '~> 4.3'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
@@ -28,3 +28,8 @@ gem 'webrick', '~> 1.8'
 
 gem 'github-pages'
 gem 'public_suffix', '6.0.1'
+
+gem "jekyll", "~> 3.9"
+gem "liquid", "~> 4.0"
+gem "jekyll-sass-converter", "= 1.5.0"
+gem "kramdown", "= 1.2.0"
